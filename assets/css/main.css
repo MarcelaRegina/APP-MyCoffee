@@ -116,13 +116,13 @@ input, select, textarea {
 	input, select, textarea {
 		font-family: 'Open Sans', sans-serif;
 		font-size: 13pt;
-		color: #696969;
+		color: #3a3535;
 		font-weight: 300;
 		line-height: 2.25em;
 	}
 
 	a {
-		color: #0090c5;
+		color: #23292b;
 		text-decoration: underline;
 	}
 
@@ -154,7 +154,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #444;
+		color: #363131;
 	}
 
 	i, em {
@@ -1491,7 +1491,7 @@ input, select, textarea {
 		font-weight: 800;
 		margin: 0 0 1em 0;
 		font-size: 0.8em;
-		color: #444;
+		color: #332f2f;
 	}
 
 	form input[type="text"],
@@ -1532,15 +1532,15 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #555 !important;
+		color: #2f2b2b !important;
 	}
 
 	form :-moz-placeholder {
-		color: #555 !important;
+		color: #282424 !important;
 	}
 
 	form ::-moz-placeholder {
-		color: #555 !important;
+		color: #2d2828 !important;
 	}
 
 	form :-ms-input-placeholder {
@@ -1577,7 +1577,7 @@ input, select, textarea {
 		}
 
 		table thead {
-			background: #404248;
+			background: #343539;
 			color: #fff;
 		}
 
@@ -1634,7 +1634,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #7f7771;
+		background: #33312f;
 		color: #fff;
 		text-decoration: none;
 		border-radius: 6px;
@@ -1938,7 +1938,7 @@ input, select, textarea {
 	}
 
 		#logo h1 {
-			background: #775d4f;
+			background: #463d37;
 			color: #fff;
 			border-radius: 6px;
 			font-family: 'circular', serif;
