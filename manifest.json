@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "description": "um site para os amantes de café encontrarem a cafeteria perfeita para visitar e degustar cafés maravilhosos.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "mycoffeesite-senacmarcela.netlify",
+  "orientation": "any",
+  "scope": "/https://mycoffeesite-senacmarcela.netlify.app/",
+  "short_name": "mycoffeesite-senacmarcela.netlify",
+  "start_url": "https://mycoffeesite-senacmarcela.netlify.app/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "entertainment",
+    "food"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "images/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "pt"
+}
