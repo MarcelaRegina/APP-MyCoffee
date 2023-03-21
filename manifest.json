@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/https://mycoffeesite-senacmarcela.netlify.app/",
   "short_name": "mycoffeesite-senacmarcela.netlify",
-  "start_url": "https://mycoffeesite-senacmarcela.netlify.app/",
+  "start_url": "/index.html",
   "theme_color": "#ffffff",
   "categories": [
     "entertainment",
@@ -19,8 +19,19 @@
       "src": "images/icon.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "images/icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
     }
   ],
-  "shortcuts": [],
-  "lang": "pt"
+  "lang": "pt-BR",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "browser"
+  ],
+  "prefer_related_applications": false
 }
